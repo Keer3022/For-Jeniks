@@ -6,6 +6,6 @@ import org.testng.annotations.Test;
 public class CampModule {
 	@Test
 	public  void home() {
-		Reporter.log("Hi Keerthana", true);
+		Reporter.log("Hi Keerthana R", true);
 	}
 }
